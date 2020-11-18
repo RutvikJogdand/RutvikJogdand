@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 	title="LinkedIn logo" width="30" height="30"  />
 </a>
 
-## Languages and Tools known:
+## Languages known:
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML"
 	title="HTML logo" width="30" height="30" class="img_one"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" alt="CSS"

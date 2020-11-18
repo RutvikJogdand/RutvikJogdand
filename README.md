@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 
+
 - 🌱 I’m currently learning MERN stack and life lessons.
 - 👯 I’m looking to collaborate on Javascript, ReactJS projects.
 - 🤔 I’m looking for help with getting a full time job as a Full stack/Front-end developer
@@ -19,11 +20,8 @@ Here are some ideas to get you started:
 
 ## Languages and Tools known:
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML"
-	title="HTML logo" width="30" height="30" style="margin-right: 30px; padding-right: 30px"/> 
+	title="HTML logo" width="30" height="30" class="img_one"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" alt="CSS"
-	title="CSS logo" width="20" height="30" style="margin-right: 30px; padding-right: 30px"/>
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="Javascript"
-	title="Javascript logo" width="30" height="30" style="margin-right: 30px; padding-right: 30px"/>
-
-
-
+	title="CSS logo" width="20" height="30"  class="img_one" /> 
+    <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="Javascript"
+	title="Javascript logo" width="30" height="30" class="img_one" />

@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 	title="CSS logo" width="20" height="30"  class="img_one" /> 
     <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="Javascript"
 	title="Javascript logo" width="30" height="30" class="img_one" />
+	
+[![Rutvik's github stats](https://github-readme-stats.vercel.app/api?username=RutvikJogdand&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

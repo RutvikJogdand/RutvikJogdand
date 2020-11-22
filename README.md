@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <img src=https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif>
-<img src=https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif>
+<img height="140" src=https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif>
 
 
 - 🌱 I’m currently learning MERN stack and life lessons.

@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+<img src=https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif>
+<img src=https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif>
 
 
 - 🌱 I’m currently learning MERN stack and life lessons.
@@ -18,12 +20,18 @@ Here are some ideas to get you started:
 	title="LinkedIn logo" width="30" height="30"  />
 </a>
 
-## Languages known:
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML"
-	title="HTML logo" width="30" height="30" class="img_one"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" alt="CSS"
-	title="CSS logo" width="20" height="30"  class="img_one" /> 
-    <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="Javascript"
-	title="Javascript logo" width="30" height="30" class="img_one" />
+## Languages and tools known:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br/>
+<br/>
 	
 [![Rutvik's github stats](https://github-readme-stats.vercel.app/api?username=RutvikJogdand&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

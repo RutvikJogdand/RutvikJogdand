@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 
 ## Resume:
-<a href="https://github.com/RutvikJogdand/RutvikJogdand.github.io/blob/master/Resume1_Rutvik_Jogdand.pdf">
+<a href="https://github.com/RutvikJogdand/RutvikJogdand.github.io/blob/master/RutvikJogdand_Resume.pdf">
 <img src="https://img.icons8.com/fluent/48/000000/open-resume.png"/>
 	My Resume
 </a>

@@ -20,6 +20,18 @@ Here are some ideas to get you started:
 	title="LinkedIn logo" width="30" height="30"  />
 </a>
 
+## Resume:
+<a href="https://github.com/RutvikJogdand/RutvikJogdand.github.io/blob/master/Resume1_Rutvik_Jogdand.pdf">
+<img src="https://img.icons8.com/fluent/48/000000/open-resume.png"/>
+	My Resume
+</a>
+
+## Portfolio:
+<a href="https://rutvikjogdand.github.io/">
+<img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/>	
+	Portfolio
+</a>
+
 ## Languages and tools known:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

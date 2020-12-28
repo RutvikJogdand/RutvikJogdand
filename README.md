@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 ## Connect With Me:
 <a href="https://in.linkedin.com/in/rutvik-jogdand-794962170" > 
-<img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" alt="LinkedIn"
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"
 	title="LinkedIn logo" width="30" height="30"  />
 </a>
 
 ## Resume:
 <a href="https://drive.google.com/file/d/1ufyHNM8VjK8OoWG1YWxBNz8PQNRLK-mg/view?usp=sharing">
-<img src="https://img.icons8.com/fluent/48/000000/open-resume.png"/>
+<img src="https://img.icons8.com/fluent/60/000000/open-resume.png"/>
 	My Resume
 </a>
 

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Connect With Me:
 <a href="https://in.linkedin.com/in/rutvik-jogdand-794962170" > 
 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"
-	title="LinkedIn logo" width="30" height="30"  />
+	title="LinkedIn logo" width="48" height="48"  />
 </a>
 
 ## Resume:

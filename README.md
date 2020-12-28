@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Resume:
 <a href="https://drive.google.com/file/d/1ufyHNM8VjK8OoWG1YWxBNz8PQNRLK-mg/view?usp=sharing">
-<img src="https://img.icons8.com/fluent/60/000000/open-resume.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/open-resume.png"/>
 	My Resume
 </a>
 

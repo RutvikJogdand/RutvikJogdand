@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working as a full stack web developer.
 - 👯 I’m looking to collaborate on Javascript, ReactJS projects.
-- 🤔 I’m wanting to learn and know as much more about being a developer and getting better in my field.
+- 🤔 I’m wanting to learn and know more about being a developer and getting better in my field.
 - 💬 Ask me about anything, if i can answer then good, if i can't then i'll learn something new. In general it would lead to a nice conversation i think.
 
 ## Connect With Me:
